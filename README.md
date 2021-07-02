@@ -6,4 +6,5 @@ Run the following commands in the terminal:
 ```
 pip install yfinance
 pip install numpy
+pip install PyPortfolioOpt
 ```
